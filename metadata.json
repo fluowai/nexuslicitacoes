@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Licitações AI",
+  "description": "Plataforma de Inteligência Comercial e CRM para Licitações Públicas com IA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
